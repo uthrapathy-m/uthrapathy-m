@@ -79,7 +79,7 @@
 
 ### 🏆 Featured Projects
 
-#### 1. [Kubernetes Multi-Cluster Management](https://github.com/uthrapathy-m/k8s-multi-cluster)
+#### 1. [Kubernetes Multi-Cluster Management](https://github.com/uthrapathy-m/kubernetes-multi-cluster-management)
 Complete Kubernetes setup with ArgoCD for GitOps, Prometheus/Grafana monitoring, and automated disaster recovery
 - **Tech**: Kubernetes, ArgoCD, Helm, Prometheus, Grafana
 - **Highlights**: 99.9% uptime, automated rollbacks, multi-region deployment
