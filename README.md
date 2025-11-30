@@ -12,7 +12,7 @@
 - 🌱 Specialized in CI/CD pipelines, containerization, and cloud infrastructure
 - 💼 Currently working on scalable microservices architectures and Kubernetes orchestration
 - 🎯 Passionate about Infrastructure as Code (IaC) and continuous improvement
-- 📫 How to reach me: **[your-email@example.com]**
+- 📫 How to reach me: **[mail.uthrapathy@gmail.com]**
 - 💬 Ask me about: **DevOps practices, Docker, Kubernetes, Jenkins, AWS/Azure/GCP**
 
 ---
@@ -79,22 +79,22 @@
 
 ### 🏆 Featured Projects
 
-#### 1. [Kubernetes Multi-Cluster Management](https://github.com/YOUR_USERNAME/k8s-multi-cluster)
+#### 1. [Kubernetes Multi-Cluster Management](https://github.com/uthrapathy-m/k8s-multi-cluster)
 Complete Kubernetes setup with ArgoCD for GitOps, Prometheus/Grafana monitoring, and automated disaster recovery
 - **Tech**: Kubernetes, ArgoCD, Helm, Prometheus, Grafana
 - **Highlights**: 99.9% uptime, automated rollbacks, multi-region deployment
 
-#### 2. [CI/CD Pipeline Template](https://github.com/YOUR_USERNAME/cicd-pipeline-template)
+#### 2. [CI/CD Pipeline Template](https://github.com/uthrapathy-m/cicd-pipeline-template)
 Production-ready Jenkins/GitHub Actions pipeline with automated testing, security scanning, and deployment
 - **Tech**: Jenkins, Docker, SonarQube, Trivy, AWS ECS
 - **Highlights**: 70% faster deployment, automated security checks
 
-#### 3. [Terraform AWS Infrastructure](https://github.com/YOUR_USERNAME/terraform-aws-infra)
+#### 3. [Terraform AWS Infrastructure](https://github.com/uthrapathy-m/terraform-aws-infra)
 Modular Terraform code for provisioning complete AWS infrastructure with best practices
 - **Tech**: Terraform, AWS (VPC, ECS, RDS, S3, CloudFront)
 - **Highlights**: Reusable modules, cost-optimized, highly available
 
-#### 4. [Monitoring Stack Deployment](https://github.com/YOUR_USERNAME/monitoring-stack)
+#### 4. [Monitoring Stack Deployment](https://github.com/uthrapathy-m/monitoring-stack)
 Complete monitoring solution with Prometheus, Grafana, AlertManager, and custom dashboards
 - **Tech**: Prometheus, Grafana, AlertManager, Node Exporter
 - **Highlights**: Real-time alerts, custom metrics, SLA tracking
@@ -135,7 +135,7 @@ Complete monitoring solution with Prometheus, Grafana, AlertManager, and custom 
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uthrapathy-m&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
